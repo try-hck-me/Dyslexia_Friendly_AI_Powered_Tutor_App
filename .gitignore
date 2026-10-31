@@ -1,0 +1,10 @@
+# Large Archives and Backups
+ai tutor.zip
+*.zip
+*.rar
+*.tar.gz
+
+# Presentation Files / PDFs
+*.pdf
+*.pptx
+*.ppt

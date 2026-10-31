@@ -1,0 +1,33 @@
+# Environments
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# API Keys and Environment configs
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Database / Storage
+data/chroma_db/
+data/chromadb/
+db.sqlite3
+*.db
+*.sqlite
+*.log
+chroma_out.txt
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
